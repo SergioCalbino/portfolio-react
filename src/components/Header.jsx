@@ -17,16 +17,16 @@ const Header = () => {
                         <Link className="nav-link"  to='/' > Home </Link>
                     </li>
                     <li className="nav-item">
-                        <Link  className="nav-link" to='/listado' > Listado </Link>
+                        <a  className="nav-link" href='../../public/CV SERGIO CALBIÑO V1.pdf' download > Descargar CV </a>
                     </li>
-                    <li className="nav-item">
+                    {/* <li className="nav-item">
                         <Link  className="nav-link" to='/favoritos' > Favoritos </Link>
                     </li>
                     <li className="nav-item d-flex align-items-center ">
                         <span  className="text-success"> 
                         </span>
                         
-                    </li>
+                    </li> */}
                 </ul>
 
             </div>
