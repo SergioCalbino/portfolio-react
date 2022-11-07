@@ -10,7 +10,7 @@ const AboutMe = () => {
         <div className="row g-0">
           <div className="col-md-4">
             <img
-              src="../../public/foto.jpg"
+              src="https://res.cloudinary.com/sergio-developer/image/upload/v1663461073/perfil_whur7b.jpg"
               className="card-img-top h-100   "
               alt="..."
             />
