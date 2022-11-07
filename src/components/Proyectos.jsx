@@ -13,7 +13,7 @@ const Proyectos = () => {
       <div className="card-body">
         <h5 className="card-title text-center "> <strong> Proyecto Pokemon </strong> </h5>
         <img src="https://res.cloudinary.com/sergio-developer/image/upload/v1656707966/pokemon_utc61c.png" className="card-img-top " alt="..."/>
-        <p className="card-text fw-semibold ">SPA que permite mostrar todos los pokemons de la pokeApi. Asimismo, perimite ordenarlos de forma alfebética, por fuerza y origen; realizar búsquedas por nombre; crear nuevos pokemones.</p>
+        <p className="card-text fw-semibold ">SPA que permite mostrar todos los pokemons de la pokeApi. Asimismo, permite ordenarlos de forma alfebética, por fuerza y origen; realizar búsquedas por nombre; crear nuevos pokemones.</p>
         <h5 className="text-center" > <a href="https://pokeclient.herokuapp.com/" target='_blank'  className="btn btn-dark">Ir a la PokeApi</a> </h5>
         <h3 className='text-center text-dark' >  GitHub  <a  href='https://github.com/SergioCalbino/PT04-POKEMON-PI' target='_blank'> <BsGithub/> </a> </h3>
 
@@ -27,7 +27,7 @@ const Proyectos = () => {
       <div className="card-body">
         <h5 className="card-title text-center "> <strong> Ecommerce </strong> </h5>
         <img src='https://res.cloudinary.com/sergio-developer/image/upload/v1656708230/Ecommerce_hk8hrk.png' className="card-img-top  " alt="..."/>
-        <p className="card-text fw-semibold ">Ecommerce de Grfieria. Permite la creación de Productos y Categorias desde el lado de administrador. Permite al usuario realizar compras, añadir productos a favoritos. Se aceptan todo tipo de pagos.</p>
+        <p className="card-text fw-semibold ">Ecommerce de Griferia. Permite la creación de Productos y Categorias desde el lado de administrador. Permite al usuario realizar compras, añadir productos a favoritos. Se aceptan todo tipo de pagos.</p>
         <h5 className="text-center" > <a href="https://atoch.herokuapp.com/" target='_blank'  className="btn btn-dark">Ir al Ecommerce</a> </h5>
         <h3 className='text-center text-dark' >  GitHub  <a  href='https://github.com/orgs/Grupo03-PF/repositories' target='_blank'> <BsGithub/> </a> </h3>
 
