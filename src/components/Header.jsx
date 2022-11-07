@@ -17,7 +17,7 @@ const Header = () => {
                         <Link className="nav-link"  to='/' > Home </Link>
                     </li>
                     <li className="nav-item">
-                        <a  className="nav-link" href='../../public/CV SERGIO CALBIÑO V1.pdf' download > Descargar CV </a>
+                        <a  className="nav-link" href='https://res.cloudinary.com/sergio-developer/raw/upload/v1667781509/CV_SERGIO_CALBI%C3%91O_V2_lqbbg5.docx' download > Descargar CV </a>
                     </li>
                     {/* <li className="nav-item">
                         <Link  className="nav-link" to='/favoritos' > Favoritos </Link>
