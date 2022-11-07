@@ -25,9 +25,9 @@ const Footer = () => {
       <BsFacebook/>
       </a>
       <a className='me-4 link-success text-decoration-none' href='https://web.whatsapp.com/' target='_blank'> <BsWhatsapp/> </a>   
-        <a  className='me-4 text-dark' href='https://www.instagram.com/sergio_mortchikian/' target='_blank'> <BsInstagram/> </a> 
-          <a  className='me-4  text text-primary ' href='https://www.linkedin.com/in/sergio-oscar/' target='_blank'> <BsLinkedin/> </a> 
-         <a  className='me-4  text-dark' href='https://github.com/SergioCalbino' target='_blank'> <BsGithub/> </a> 
+        <a  className='me-4 text-dark text-decoration-none' href='https://www.instagram.com/sergio_mortchikian/' target='_blank'> <BsInstagram/> </a> 
+          <a  className='me-4  text text-primary text-decoration-none ' href='https://www.linkedin.com/in/sergio-oscar/' target='_blank'> <BsLinkedin/> </a> 
+         <a  className='me-4  text-dark text-decoration-none' href='https://github.com/SergioCalbino' target='_blank'> <BsGithub/> </a> 
     </div>
     {/* <!-- Right --> */}
   </section>
@@ -42,7 +42,7 @@ const Footer = () => {
         <div className="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
           {/* <!-- Content --> */}
           <h6 className="text-uppercase fw-bold mb-4">
-            <i className="fas fa-gem me-3"></i>Company name
+            <i className="fas fa-gem me-3"></i>
           </h6>
           <p>
            Desarrollador Freelance
@@ -54,7 +54,7 @@ const Footer = () => {
         <div className="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
           {/* <!-- Links --> */}
           <h6 className="text-uppercase fw-bold mb-4">
-            Products
+            Stack de tecnologías
           </h6>
           <p>
             <h3  className="text-warning">Javascript <SiJavascript/> </h3>
@@ -107,7 +107,7 @@ const Footer = () => {
         {/* <!-- Grid column --> */}
         <div className="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
           {/* <!-- Links --> */}
-          <h6 className="text-uppercase fw-bold mb-4">Contact</h6>
+          <h6 className="text-uppercase fw-bold mb-4">Contacto</h6>
           <p><i className="fas fa-home me-3"></i> Ciudad de Buenos Aires, Argentina</p>
           <p>
             <i className="fas fa-envelope me-3"></i>
