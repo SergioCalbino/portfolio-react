@@ -8,7 +8,7 @@ const Proyectos = () => {
    {/* pokemon */}
    <div className="row  "  >
    <header  className= "card-title text-center "> <h1> Proyectos </h1>   </header>
-  <div className="col-sm-6 mt-2   "  >
+  {/* <div className="col-sm-6 mt-2   "  >
     <div className="card h-100 ">
       <div className="card-body">
         <h5 className="card-title text-center "> <strong> Proyecto Pokemon </strong> </h5>
@@ -19,10 +19,23 @@ const Proyectos = () => {
 
       </div>
     </div>
+  </div> */}
+  {/* Ecommerce Artístico */}
+  <div className="col-sm-6 mt-2   "  >
+    <div className="card h-100 ">
+      <div className="card-body">
+        <h5 className="card-title text-center "> <strong> Ecommerce Artístico </strong> </h5>
+        <img src="https://res.cloudinary.com/sergio-developer/image/upload/v1669328106/WhatsApp_Image_2022-11-19_at_12.17.55_wibwfg.jpg" className="card-img-top " alt="..."/>
+        <p className="card-text fw-semibold ">Ecommerce Artistico es una tienda en linea dedicada a vender la mas variada seleccion de mascaras para el teatro, fiestas y cualquier otro evento artistico.</p>
+        <h5 className="text-center" > <a href="https://c8-41-t-mern.vercel.app/" target='_blank'  className="btn btn-dark">Ir al Ecommerce</a> </h5>
+        <h3 className='text-center text-dark' >  GitHub  <a  href='https://github.com/No-Country/C8-41-t-mern' target='_blank'> <BsGithub/> </a> </h3>
+
+      </div>
+    </div>
   </div>
   
   {/* Ecommerce */}
-  <div className="col-sm-6 mt-2   "  >
+  {/* <div className="col-sm-6 mt-2   "  >
     <div className="card h-100 ">
       <div className="card-body">
         <h5 className="card-title text-center "> <strong> Ecommerce </strong> </h5>
@@ -33,7 +46,7 @@ const Proyectos = () => {
 
       </div>
     </div>
-  </div>
+  </div> */}
 
   
   {/* gif */}
