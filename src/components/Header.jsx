@@ -16,9 +16,9 @@ const Header = () => {
                     <li className="nav-item" >
                         <Link className="nav-link"  to='/' > Home </Link>
                     </li>
-                    <li className="nav-item">
+                    {/* <li className="nav-item">
                         <a  className="nav-link" href='https://www.canva.com/design/DAFBDcG6fJg/1DZeImaVNj2YwpepJfndcg/view?utm_content=DAFBDcG6fJg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink' target='_blank' > Descargar CV </a>
-                    </li>
+                    </li> */}
                     {/* <li className="nav-item">
                         <Link  className="nav-link" to='/favoritos' > Favoritos </Link>
                     </li>
