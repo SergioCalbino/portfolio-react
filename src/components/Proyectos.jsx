@@ -27,8 +27,22 @@ const Proyectos = () => {
         <h5 className="card-title text-center "> <strong> Ecommerce Artístico </strong> </h5>
         <img src="https://res.cloudinary.com/sergio-developer/image/upload/v1669328106/WhatsApp_Image_2022-11-19_at_12.17.55_wibwfg.jpg" className="card-img-top " alt="..."/>
         <p className="card-text fw-semibold ">Ecommerce Artistico es una tienda en linea dedicada a vender la mas variada seleccion de mascaras para el teatro, fiestas y cualquier otro evento artistico.</p>
-        <h5 className="text-center" > <a href="https://c8-41-t-mern.vercel.app/" target='_blank'  className="btn btn-dark">Ir al Ecommerce</a> </h5>
+        <h5 className="text-center" > <a href="https://c8-41-t-mern-rho.vercel.app/" target='_blank'  className="btn btn-dark">Ir al Ecommerce</a> </h5>
         <h3 className='text-center text-dark' >  GitHub  <a  href='https://github.com/No-Country/C8-41-t-mern' target='_blank'> <BsGithub/> </a> </h3>
+
+      </div>
+    </div>
+  </div>
+  
+  {/* Ecommerce Deportivo */}
+  <div className="col-sm-6 mt-2   "  >
+    <div className="card h-100 ">
+      <div className="card-body">
+        <h5 className="card-title text-center "> <strong> Custom Sports </strong> </h5>
+        <img src="https://res.cloudinary.com/sergio-developer/image/upload/v1677973212/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f646f733369356a71792f696d6167652f75706c6f61642f76313637373735393534362f637573746f6d2d73706f7274732f637573746f6d73706f727473315f68716e726674_di9nfc.jpg" className="card-img-top " alt="..."/>
+        <p className="card-text fw-semibold ">Custom Sports, online store of sports apparel, where you can design and buy the sports model, with the possibility to create and manage a personal user account</p>
+        <h5 className="text-center" > <a href="http://ec2-18-118-29-121.us-east-2.compute.amazonaws.com/" target='_blank'  className="btn btn-dark">Go to Buy</a> </h5>
+        <h3 className='text-center text-dark' >  GitHub  <a  href='https://github.com/No-Country/S6-14-T-MERN' target='_blank'> <BsGithub/> </a> </h3>
 
       </div>
     </div>

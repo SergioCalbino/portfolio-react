@@ -24,25 +24,9 @@ const AboutMe = () => {
               <br />
               <br />
               <p className="card-text text-center fst-italic ">
-                ¡Hola!😀 ❇Me llamo Sergio Calbiño y soy Desarrollador Web Full
-                Stack.
-                <br />
-                Trabajo como freelance; soy autodidacta 
+              Full Stack Developer con formación en el stack MERN y PERN. Background en Abogacía, con grandes capacidades de resolución de problemas y trabajo en equipo. Tengo experiencia creando E-Commerce para diferentes clientes. En ellos utilice las tecnologías Javascript, NodeJS, React, Redux, SQL y MongoDB entre otras 
                 <br/>
-                ❇ Cursé y
-                me certifique como desarrollador web full stack en Henry, el
-                cual cuenta con más de 800 horas de práctica y aprendizaje.
-                Muchos de mis proyectos se encuentran en mi portFolio al cual te
-                invito que conozcas y tambíen en mi repositorio de GitHub
-                encontraras otros proyectos.
-                <br/>
-                ❇ Busco un lugar de trabajo
-                en la industria de la Tecnologia donde
-                pueda volcar toda mi experiencia y
-                cumplir con las necesidades y objetivos
-                de la empresa
-                <br/>
-                ❇ Capacidad de Analisis, confianza, capacidad de trabajar en equipo, conocimiento y respeto de las normas son aptitudes que me caracterizan, 
+                ❇ Capacidad de Analisis, confianza, capacidad de trabajar en equipo, conocimiento y respeto de las normas son aptitudes que me caracterizan 
               </p>
               <p className="card-text">
               <br/>
