@@ -11,8 +11,8 @@ function App() {
     <div className="container mt-3">
     <Header/>
       <Routes>
-        <Route exact path="/" element={<AboutMe />} />
-        <Route exact path="/" element={<Proyectos/> } />
+        <Route  path="/" element={<AboutMe />} />
+        <Route  path="/" element={<Proyectos/> } />
         {/* <Route exact path="/"  element={<Certificates/>}/> */}
       </Routes>
       {/* <Certificates/> */}
